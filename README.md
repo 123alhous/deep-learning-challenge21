@@ -69,6 +69,7 @@ Use any or all of the following methods to optimize your model:
     - Use different activation functions for the hidden layers.
     - Add or reduce the number of epochs to the training regimen.
 
+------
 
 
 ## <a id="Final-Report"></a> Final Analysis and Report on the Neural Network Model
